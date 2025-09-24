@@ -6,7 +6,6 @@ let num=Number(x);
 
 
 // Even or odd function 
-
 let Num=num%2==0 ? "Even" : "Odd" ;
 console.log(Num);
 
@@ -28,5 +27,5 @@ switch(true){
     default:
         date="Invalid day";
 }
-
+// 
 console.log(date);
