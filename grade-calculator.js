@@ -1,16 +1,13 @@
 
 //  Step-1 : input as string
-
 let a = "85";
 
 
  // Step-2 : type conversion 
-
 let mark1 = Number(a);
 
 
 // Uses  switch statements :
-
 let grade ;
 switch(true){
     case(mark1>=90 && mark1<=100):
@@ -34,5 +31,4 @@ switch(true){
 
 
 // Prints the grade 
-
 console.log(grade);   
