@@ -27,5 +27,5 @@ switch(true){
     default:
         date="Invalid day";
 }
-// 
+// print 
 console.log(date);
